@@ -1,0 +1,6 @@
+1.npm init
+2.download the dependency(vite,parcel)whatever-npm install vite/parcel
+2.5 remove main: in the package.json
+run the dependency(for parcel-npx parcel index.htm)(for vite-npm run dev)-it gives basically port
+3.install react and react dom because we were fetching react from cdn links and thats not preffereabale
+4.import react and react dom in app.js
